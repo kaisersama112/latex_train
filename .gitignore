@@ -1,0 +1,12 @@
+/new_data/
+/src/logs/
+/src/models/self_tokenizer_dir/
+/src/models/ocr_model/TexTeller/
+/src/models/ocr_model/train/train_result/
+/src/models/ocr_model/train/augraphy_cache/
+/src/models/ocr_model/train/dataset/
+/src/models/det_model/model/
+/src/models/thrid_party/paddleocr/checkpoints/
+/svg_image/
+.idea
+__pycache__

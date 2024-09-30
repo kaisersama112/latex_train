@@ -1,0 +1,17 @@
+transformers==4.44.1
+datasets
+evaluate
+opencv-python
+ray[serve]
+accelerate
+tensorboardX
+nltk
+python-multipart
+augraphy
+streamlit==1.30
+streamlit-paste-button
+shapely
+pyclipper
+onnxruntime-gpu==1.17.0
+typing_extensions==4.11.0
+sympy==1.13.2
